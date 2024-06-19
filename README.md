@@ -20,12 +20,6 @@ These directories contain all the files related to the specific methods respecti
 
 ## Training
 In order to train models of any of the methods you need to first update the path to the dataset in their respective DataLoaders.py file.
-
-```
-"C:/Users/Harsh Soni/Downloads/CV Project/dataset/train" --> 'Path to dataset'
-"C:/Users/Harsh Soni/Downloads/CV Project/dataset/val" --> 'Path to dataset'
-```
-
 After you have updated the path to the dataset, you need to run the below mentioned command to train the respective model.
 
 ```
