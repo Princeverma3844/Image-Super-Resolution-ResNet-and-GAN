@@ -57,6 +57,6 @@ This will generate an image containing the visual results on you screen.
 - [Research Paper](https://arxiv.org/pdf/1609.04802)
 
 ## Authors
+- [Prince Verma](https://github.com/Princeverma3844)
 - [Harsh Soni](https://github.com/Harsh200112)
 - [Tanishq Kankerwal](https://github.com/B21BB032)
-- [Prince Verma](https://github.com/Princeverma3844)
